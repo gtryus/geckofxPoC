@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E7CD21CC-0A7F-447E-B232-2B894F670B0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Debug|x86.ActiveCfg = Debug|x86
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Debug|x86.Build.0 = Debug|x86
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Release|x86.ActiveCfg = Release|x86
+		{E7CD21CC-0A7F-447E-B232-2B894F670B0B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

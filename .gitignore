@@ -1,0 +1,6 @@
+*.userprefs
+Firefox*
+*/bin
+*/obj
+packages
+
